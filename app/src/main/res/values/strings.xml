@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Android 1 GeekBrains hw</string>
+    <string name="textview">TextView</string>
+    <string name="button">Button</string>
 </resources>
